@@ -27,7 +27,9 @@ namespace MVCDemoWithGit.Controllers
             return View();
         }
 
-        public string GitChanges()
+       
+
+        public string GitChangesAMit()
         {
             string abc = "hi";
             return abc;
